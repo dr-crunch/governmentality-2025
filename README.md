@@ -1,4 +1,4 @@
-# Governmentality 2025
+## Governmentality 2025
 
 *A Public Record of Governance, Preparedness, and Decision-Making in Ireland*
 
@@ -86,7 +86,6 @@ The repository is grounded in the following pillars:
 6.  **Good Administration**: Derived from EU principles, requiring "substantive acknowledgment" of expert submissions rather than "simulated process" or "formulaic responses".[^4]
 7.  **Data Protection & Privacy**: Redacted Personal Dispatches.[^5]
 
-
 ---
 
 ## Status
@@ -101,3 +100,109 @@ This repository is a **historical snapshot of 2025**. It is preserved as a fixed
 [^3]: The **2013 Act** allows for the investigation of maladministration where established procedures have been bypassed.
 [^4]: EU principles of **"Good Administration"** require that state responses be meaningful rather than formulaic.
 [^5]: **Redacted Personal Dispatches**: Several documents within this repository have been redacted to remove sensitive personal data, contact information, and identifiers belonging to non-public figures. These redactions comply with GDPR and privacy obligations while preserving the structural integrity and evidential value of the public record.
+
+> produce one finale plaintext file in MD language## The Canon (Primary Repository Links)
+
+### 00 — Foundational Documents
+*Establishing the theoretical and structural basis of the failure.*
+
+- **Bureaucratic Stagnation & Fiduciary Breach**  
+  Core indictment establishing that prolonged State non-engagement with Operations Research constitutes fiduciary, administrative, and constitutional breach once material risk intelligence was received.  
+  https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI
+
+- **Séachanachas: Governance by Avoidance**  
+  Structural analysis of *Evasocracy*—governance through strategic withdrawal, jurisdictional deflection, and refusal to cohere.  
+  https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy
+
+- **Architecture of Accountability**  
+  Mapping how institutional design in Ireland predictably converts expert submissions into procedural acknowledgment without substantive consequence.  
+  https://drive.google.com/open?id=1zAFdssVKb2N5Umdtab8aIn1tb4Qcf-Rg
+
+---
+
+### 01 — Governance Charters
+*Frameworks for lawful recovery and institutional repair.*
+
+- **AI / OR Governance Charter (Consolidated)**  
+  Defines the minimum lawful conditions for public authorities to receive, process, escalate, and act upon expert evidence and civic signals.  
+  https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA
+
+- **Charter on Strategic Intelligence & Risk**  
+  Establishes “signal absorption without consequence” as a justiciable institutional failure mode once notice has been given.  
+  https://drive.google.com/open?id=1Z8BT7GUyxoPavzY7POWxRvc5r9Gi6xNK
+
+- **Strategic Intelligence: Enforcement & Remedies**  
+  Outlines legal remedies—including mandamus, declaratory relief, and injunction—for designed institutional forgetting.  
+  https://drive.google.com/open?id=1lEdPnMq6gFDztxJTrNVO5295zR0Yxjrr
+
+---
+
+### 02 — Evidentiary Record
+*Direct evidence of notice, foreseeability, and non-response.*
+
+- **National Exhibition of Administrative Failure**  
+  Curated evidence demonstrating the nineteen-year interval between validated O.R. submissions and any substantive State response.  
+  https://drive.google.com/open?id=1F-xN7kUuSrXPOZUnDdJj30VKljZx1hU6
+
+- **Annex II: Named Members of Dáil Éireann**  
+  Identifies specific deputies who received explicit warnings regarding preparedness and decision-science capabilities, establishing notice.  
+  https://drive.google.com/open?id=1PnPpunEQL8PSPbmA487oQ9DEsaBiDTeB
+
+---
+
+### 03 — Statutory Complaints
+*Formal legal and ethical filings.*
+
+- **Ethics in Public Office Act 1995 — Section 8(2) Filing**  
+  Statutory complaint initiating proceedings against nineteen members of the Seanad.  
+  https://drive.google.com/open?id=1_eHvOD7jFTJ60L_SQbZTP31TgZ93KEHe
+
+- **Response to Ethics Complaint Rejection (Dáil)**  
+  Legal rebuttal rejecting the “policy disagreement” defence and asserting breach of statutory and administrative duty.  
+  https://drive.google.com/open?id=1zZbjlTLRJikWvYvP8sh5QM0MN7BqSo1U
+
+- **Correspondence with Deputy Clerk of the Seanad**  
+  Documents bicameral notice, procedural engagement, and reservation of judicial review rights.  
+  https://drive.google.com/open?id=1VbLw8ySjuosIMywGLuvEpVG9seeKqXDV
+
+---
+
+### 04 — Technical Background
+*Scientific and methodological context.*
+
+- **Governance of Operations Research: Technical Notes**  
+  Explains why Operations Research constitutes baseline governance infrastructure for crisis management, emergency planning, and public logistics.  
+  https://drive.google.com/open?id=1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5
+
+---
+
+## Legal Footnotes and Authorities
+
+- **Constitutional Obligations**  
+  Article 15.10 (right to petition Parliament) and Article 28 (collective executive authority) of *Bunreacht na hÉireann* establish a duty to decide upon material strategic risks.
+
+- **Ethics in Public Office Act 1995**  
+  Section 8(2) provides the mechanism for naming members in a complaint; Section 8(3) governs disclosure and ethical duty.
+
+- **Standing Orders of the Houses of the Oireachtas**  
+  Dáil Standing Order 162(3)(d) and Seanad Standing Order 145(3)(d) govern receipt and handling of complaints regarding member conduct.
+
+- **Administrative Law**  
+  The Ministers and Secretaries Acts and the Cabinet Handbook articulate collective Cabinet responsibility and oversight duties in national preparedness.
+
+- **Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013**  
+  Provides the statutory mechanism to investigate maladministration where established procedures have been bypassed.
+
+- **EU Principles of Good Administration**  
+  Require substantive, reasoned engagement with expert submissions rather than simulated process or formulaic response.
+
+- **Data Protection and Privacy**  
+  Certain documents are redacted to remove personal data of non-public individuals in compliance with GDPR, without impairing evidential integrity.
+
+---
+
+## Status
+
+This repository is a **historical snapshot of 2025**. It is preserved as a fixed public record to prevent retroactive dilution, revision, or narrative laundering.
+
+*The repository shifts the burden of proof to the State, treating pervasive and self-preserving non-responsiveness as the primary breach of fiduciary and decision-making duty.*
