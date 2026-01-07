@@ -34,7 +34,8 @@
 │       ├── README.md
 │       └── Governance_of_OR_Technical_Notes.pdf
 │
-└── LICENSE (CC0 1.0 Universal and CC BY-ND 4.0 (Attribution-NoDerivatives) for Redacted Personal Dispatches)```
+└── LICENSE (CC0 1.0 Universal and CC BY-ND 4.0 (Attribution-NoDerivatives) for Redacted Personal Dispatches)
+```
 
 ## The Canon (Primary Repository Links)
 
