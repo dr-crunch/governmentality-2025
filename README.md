@@ -48,42 +48,6 @@ Governmentality-2025/
 
 What began as a technical proposal matured, through repeated notice and non-response, into a **structural indictment** of institutional evasion, designed delay, and the systematic suppression of applied intelligence.
 
-## Repository Structure
-
-```text
-Governmentality-2025/
-│
-├── README.md
-│
-├── canon/
-│   ├── 00_Foundational/
-│   │   ├── Bureaucratic_Stagnation_Fiduciary_Breach.pdf
-│   │   ├── Seachanachas_Governance_by_Avoidance.pdf
-│   │   └── Architecture_of_Accountability.pdf
-│   │
-│   ├── 01_Governance_Charters/
-│   │   ├── AI_OR_Governance_Charter_Consolidated.pdf
-│   │   ├── Charter_on_Strategic_Intelligence_and_Risk.pdf
-│   │   └── Strategic_Intelligence_Enforcement_and_Remedies.pdf
-│   │
-│   ├── 02_Evidentiary_Record/
-│   │   ├── National_Exhibition_of_Administrative_Failure.pdf
-│   │   └── Annex_II_Named_Members_Dail_Eireann.pdf
-│   │
-│   ├── 03_Statutory_Complaints/
-│   │   ├── Ethics_Act_Section_8_2_Filing.pdf
-│   │   ├── Response_to_Dail_Complaint_Rejection.pdf
-│   │   └── Correspondence_Deputy_Clerk_Seanad.pdf
-│   │
-│   └── 04_Technical_Background/
-│       ├── README.md
-│       └── Governance_of_OR_Technical_Notes.pdf
-│
-└── LICENSE
-    ├── CC0 1.0 Universal
-    └── CC BY-ND 4.0 (Attribution–NoDerivatives, for redacted personal dispatches)
-
-
 ### 00 — Foundational Documents
 *Establishing the theoretical and structural basis of the failure.*
 
