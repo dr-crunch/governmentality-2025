@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period 2008–2025. The repository documents a "multi-decade failure" to engage with **Operations Research (O.R.)**—a discipline essential for managing decision-making under risk in defense, health, and national infrastructure. What began as a technical proposal has matured into a "structural indictment" of institutional evasion and the suppression of applied intelligence.
+**Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period 2008–2025. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for managing decision-making under risk in defense, health, and national infrastructure. What began as a technical proposal has matured into a "structural indictment" of institutional evasion and the suppression of applied intelligence.
 
 ```Governmentality-2025/
 │
@@ -12,57 +12,20 @@
 │
 ├── canon/
 │   ├── 00_Foundational/
-│   │   ├── README.md
 │   │   ├── Bureaucratic_Stagnation_Fiduciary_Breach.pdf
 │   │   ├── Seachanachas_Governance_by_Avoidance.pdf
 │   │   └── Architecture_of_Accountability.pdf
 │   │
 │   ├── 01_Governance_Charters/
-│   │   ├── README.md
 │   │   ├── AI_OR_Governance_Charter_Consolidated.pdf
 │   │   ├── Charter_on_Strategic_Intelligence_and_Risk.pdf
 │   │   └── Strategic_Intelligence_Enforcement_and_Remedies.pdf
 │   │
 │   ├── 02_Evidentiary_Record/
-│   │   ├── README.md
 │   │   ├── National_Exhibition_of_Administrative_Failure.pdf
 │   │   └── Annex_II_Named_Members_Dail_Eireann.pdf
 │   │
 │   ├── 03_Statutory_Complaints/
-│   │   ├── README.md
-│   │   ├── Ethics_Act_Section_8_2_Filing.pdf
-│   │   ├── Response_to_Dail_Complaint_Rejection.pdf
-│   │   └── Correspondence_Deputy_Clerk_Seanad.pdf
-│   │
-│   └── 04_Technical_Background/
-│       ├── README.md
-│       └── Governance_of_OR_Technical_Notes.pdf
-│
-└── LICENSE
-``````Governmentality-2025/
-│
-├── README.md
-│
-├── canon/
-│   ├── 00_Foundational/
-│   │   ├── README.md
-│   │   ├── Bureaucratic_Stagnation_Fiduciary_Breach.pdf
-│   │   ├── Seachanachas_Governance_by_Avoidance.pdf
-│   │   └── Architecture_of_Accountability.pdf
-│   │
-│   ├── 01_Governance_Charters/
-│   │   ├── README.md
-│   │   ├── AI_OR_Governance_Charter_Consolidated.pdf
-│   │   ├── Charter_on_Strategic_Intelligence_and_Risk.pdf
-│   │   └── Strategic_Intelligence_Enforcement_and_Remedies.pdf
-│   │
-│   ├── 02_Evidentiary_Record/
-│   │   ├── README.md
-│   │   ├── National_Exhibition_of_Administrative_Failure.pdf
-│   │   └── Annex_II_Named_Members_Dail_Eireann.pdf
-│   │
-│   ├── 03_Statutory_Complaints/
-│   │   ├── README.md
 │   │   ├── Ethics_Act_Section_8_2_Filing.pdf
 │   │   ├── Response_to_Dail_Complaint_Rejection.pdf
 │   │   └── Correspondence_Deputy_Clerk_Seanad.pdf
@@ -73,7 +36,6 @@
 │
 └── LICENSE
 ```
-
 ## Legal Footnotes and Authorities
 
 The repository is grounded in the following statutory and constitutional pillars, which define the "fiduciary duty" and "decision duty" of the State:
@@ -166,4 +128,4 @@ This repository is a **historical snapshot of 2025**. It is preserved as a fixed
 
 ---
 
-This repository shifts the burden of proof to the State, treating the "design" of non-responsiveness as the primary breach of fiduciary duty.
+This repository shifts the burden of proof to the State, treating the pervading (self-preserving) non-responsiveness as the primary breach of fiduciary duty.
