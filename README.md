@@ -46,22 +46,22 @@ Governmentality-2025/
 
 ## The Canon (Primary Repository Links)
 
-What began as a technical proposal matured, through repeated notice and non-response, into a **structural indictment** of institutional evasion, designed delay, and the systematic suppression of applied intelligence.
+The following documents constitute the canonical evidentiary and analytical record preserved under `/canon/`. Each item is fixed to a specific Google Drive ID to maintain chain-of-custody integrity.
 
 ### 00 — Foundational Documents
 *Establishing the theoretical and structural basis of the failure.*
 
 - **Bureaucratic Stagnation & Fiduciary Breach**  
-  Core indictment establishing that prolonged State non-engagement with Operations Research constitutes fiduciary, administrative, and constitutional breach once material risk intelligence was received.  
-  https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI
+  Establishes that prolonged State non-engagement with Operations Research and decision-science inputs constitutes fiduciary, administrative, and constitutional breach once material risk intelligence was received.  
+  [Access](https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI&usp=drive_copy)
 
 - **Séachanachas: Governance by Avoidance**  
-  Structural analysis of *Evasocracy*—governance through strategic withdrawal, jurisdictional deflection, and refusal to cohere.  
-  https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy
+  Structural analysis of governance-by-delay (*Evasocracy*), documenting how jurisdictional deflection and procedural withdrawal substitute for lawful decision-making.  
+  [Access](https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy&usp=drive_copy)
 
 - **Architecture of Accountability**  
-  Mapping how institutional design in Ireland predictably converts expert submissions into procedural acknowledgment without substantive consequence.  
-  https://drive.google.com/open?id=1zAFdssVKb2N5Umdtab8aIn1tb4Qcf-Rg
+  Analytical mapping of institutional design choices that convert expert submissions into procedural acknowledgment without substantive consequence.  
+  [Access](https://drive.google.com/open?id=1zAFdssVKb2N5Umdtab8aIn1tb4Qcf-Rg&usp=drive_copy)
 
 ---
 
@@ -69,16 +69,16 @@ What began as a technical proposal matured, through repeated notice and non-resp
 *Frameworks for lawful recovery and institutional repair.*
 
 - **AI / OR Governance Charter (Consolidated)**  
-  Defines the minimum lawful conditions for public authorities to receive, process, escalate, and act upon expert evidence and civic signals.  
-  https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA
+  Consolidated charter defining lawful governance obligations for receiving, processing, escalating, and deciding upon expert intelligence and civic submissions.  
+  [Access](https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA&usp=drive_copy)
 
 - **Charter on Strategic Intelligence & Risk**  
-  Establishes “signal absorption without consequence” as a justiciable institutional failure mode once notice has been given.  
-  https://drive.google.com/open?id=1Z8BT7GUyxoPavzY7POWxRvc5r9Gi6xNK
+  Normative framework identifying “signal absorption without consequence” as an institutional failure mode, triggering enforceable duties upon notice of systemic risk.  
+  [Access](https://drive.google.com/open?id=1Z8BT7GUyxoPavzY7POWxRvc5r9Gi6xNK&usp=drive_copy)
 
 - **Strategic Intelligence: Enforcement & Remedies**  
-  Outlines legal remedies—including mandamus, declaratory relief, and injunction—for designed institutional forgetting.  
-  https://drive.google.com/open?id=1lEdPnMq6gFDztxJTrNVO5295zR0Yxjrr
+  Legal analysis establishing justiciability of designed institutional forgetting and outlining remedies including mandamus, declaratory relief, and injunction.  
+  [Access](https://drive.google.com/open?id=1lEdPnMq6gFDztxJTrNVO5295zR0Yxjrr&usp=drive_copy)
 
 ---
 
@@ -86,12 +86,12 @@ What began as a technical proposal matured, through repeated notice and non-resp
 *Direct evidence of notice, foreseeability, and non-response.*
 
 - **National Exhibition of Administrative Failure**  
-  Curated evidence demonstrating the nineteen-year interval between validated O.R. submissions and any substantive State response.  
-  https://drive.google.com/open?id=1F-xN7kUuSrXPOZUnDdJj30VKljZx1hU6
+  Curated evidentiary record demonstrating the nineteen-year interval between validated Operations Research submissions and any substantive State response.  
+  [Access](https://drive.google.com/open?id=1F-xN7kUuSrXPOZUnDdJj30VKljZx1hU6&usp=drive_copy)
 
 - **Annex II: Named Members of Dáil Éireann**  
-  Identifies specific deputies who received explicit warnings regarding preparedness and decision-science capabilities, establishing notice.  
-  https://drive.google.com/open?id=1PnPpunEQL8PSPbmA487oQ9DEsaBiDTeB
+  Evidentiary annex identifying named members of Dáil Éireann who received explicit warnings regarding preparedness and decision-science capabilities, establishing notice and foreseeability.  
+  [Access](https://drive.google.com/open?id=1PnPpunEQL8PSPbmA487oQ9DEsaBiDTeB&usp=drive_copy)
 
 ---
 
@@ -99,16 +99,16 @@ What began as a technical proposal matured, through repeated notice and non-resp
 *Formal legal and ethical filings.*
 
 - **Ethics in Public Office Act 1995 — Section 8(2) Filing**  
-  Statutory complaint initiating proceedings against nineteen members of the Seanad.  
-  https://drive.google.com/open?id=1_eHvOD7jFTJ60L_SQbZTP31TgZ93KEHe
+  Statutory filing initiating complaints against members of the Seanad under Section 8(2) of the Ethics in Public Office Act 1995.  
+  [Access](https://drive.google.com/open?id=1_eHvOD7jFTJ60L_SQbZTP31TgZ93KEHe&usp=drive_copy)
 
 - **Response to Ethics Complaint Rejection (Dáil)**  
-  Legal rebuttal rejecting the “policy disagreement” defence and asserting breach of statutory and administrative duty.  
-  https://drive.google.com/open?id=1zZbjlTLRJikWvYvP8sh5QM0MN7BqSo1U
+  Formal rebuttal to the Clerk of the Dáil, rejecting the mischaracterisation of the matter as a policy disagreement and asserting breach of statutory and administrative duty.  
+  [Access](https://drive.google.com/open?id=1zZbjlTLRJikWvYvP8sh5QM0MN7BqSo1U&usp=drive_copy)
 
 - **Correspondence with Deputy Clerk of the Seanad**  
-  Documents bicameral notice, procedural engagement, and reservation of judicial review rights.  
-  https://drive.google.com/open?id=1VbLw8ySjuosIMywGLuvEpVG9seeKqXDV
+  Documented correspondence outlining procedural engagement, bicameral notice, and reservation of judicial review rights.  
+  [Access](https://drive.google.com/open?id=1VbLw8ySjuosIMywGLuvEpVG9seeKqXDV&usp=drive_copy)
 
 ---
 
@@ -116,8 +116,8 @@ What began as a technical proposal matured, through repeated notice and non-resp
 *Scientific and methodological context.*
 
 - **Governance of Operations Research: Technical Notes**  
-  Explains why Operations Research constitutes baseline governance infrastructure for crisis management, emergency planning, and public logistics.  
-  https://drive.google.com/open?id=1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5
+  Technical notes explaining why Operations Research constitutes baseline governance infrastructure for emergency planning, crisis response, and national resilience.  
+  [Access](https://drive.google.com/open?id=1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5&usp=drive_copy)
 
 ---
 
