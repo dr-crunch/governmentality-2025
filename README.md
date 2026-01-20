@@ -8,15 +8,15 @@
 
 **Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period **2008–2025**. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for lawful decision-making under uncertainty in defence, public health, and national infrastructure.
 
-Michel Foucault coined "governmentality" in his late-1970s lectures (especially Security, Territory, Population and the 1978 piece titled "Governmentality") to capture a shift in how power operates in modern societies. Unlike older ideas of power as:
+Michel Foucault coined "governmentality" in his late-1970s lectures (especially *Security, Territory, Population* and the 1978 piece titled *Governmentality*) to capture a shift in how power operates in modern societies. Unlike older ideas of power as:
  - Sovereign (king/law says "don't do that, or else"), or
  - Disciplinary (prisons, schools, factories train bodies into obedience)
 
-Governmentality focuses on the "conduct of conducts"—the art of guiding how people (and institutions) behave, often indirectly and "freely."
+Governmentality focuses on the "conduct of conducts" —the art of guiding how people (and institutions) behave, often indirectly and "freely."
 
 For all intents and purposes, the term can mean (and stand for, together, in the present context): Administrative Governance and Administrative Containment. The usage of the term is not an endorsement of Foucault's politics, necessarily; it's a description that can be held as a euphemism, in this way —with or without postmodernism, that is.
 
-Modern government isn't just top-down decrees—it's a **mentality** embedded in administrative routines that make certain ways of acting seem natural or inevitable. Citizens and officials alike participate in their own governance through self-regulation, reporting, compliance, and "best practices."  
+Modern government isn't just top-down decrees; it's a **mentality** embedded in administrative routines that make certain ways of acting seem natural or inevitable. Citizens and officials alike participate in their own governance through self-regulation, reporting, compliance, and "best practices."  
 
 **Applied to the Irish case:**  
 
@@ -26,7 +26,7 @@ The nineteen-year pattern decribed in the D & R corpus isn't random incompetence
 * Coordinates administrative processes to **contain** rather than resolve (simulated engagement, deflection, non-escalation).  
 * Maintains appearances of responsiveness (consultations, acknowledgments) while structurally displacing fiduciary duty (no reasoned decision, no memory/escalation of duty-of-care breaches).
 
-This is why "Riarachánachas" (administrative-ism / administrative governance) pairs so well with "Dealraitheachas" (appearance-rule / phainocracy). Foucault's term names the coordinating mechanism behind the facade: a system designed for **containment without decision**, where fiduciary care evaporates not by accident but by design.  
+This is why *Riarachánachas* (administrative-ism / administrative governance) pairs so well with *Dealraitheachas* (appearance-rule / phainocracy). Foucault's term names the coordinating mechanism behind the facade: a system designed for **containment without decision**, where fiduciary care evaporates not by accident but by design.  
 
 **Why keep the term despite the hate?**
 
