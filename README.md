@@ -8,6 +8,11 @@
 
 **Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period **2008–2025**. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for lawful decision-making under uncertainty in defence, public health, and national infrastructure.
 
+Michel Foucault coined "governmentality" in his late-1970s lectures (especially Security, Territory, Population and the 1978 piece titled "Governmentality") to capture a shift in how power operates in modern societies. Unlike older ideas of power as:Sovereign (king/law says "don't do that, or else"), or  
+Disciplinary (prisons, schools, factories train bodies into obedience), governmentality focuses on the "conduct of conducts"—the art of guiding how people (and institutions) behave, often indirectly and "freely."
+
+For all intents and purposes, governmentality can mean (together, in the present context): Administrative Governance and Administrative Containment. The terms usage is not an endorsement of Foucault's politics, necessarily; it's a description that can be held as a euphemism, in this way —with or without postmodernism, that is.
+
 ## Repository Structure
 
 ```text
