@@ -92,9 +92,8 @@ The following documents constitute the canonical evidentiary and analytical reco
   **See also:** Government Accountability and Research Initiative (Briefing Document, April 11, 2025)
   [Synthesis of Information on Brøek Meinhardt's Initiative and Government Engagement](https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy)
 
-- **Architecture of Accountability**  
-  Analytical mapping of institutional design choices that convert expert submissions into procedural acknowledgment without substantive consequence.  
-  [Access](https://drive.google.com/open?id=1zAFdssVKb2N5Umdtab8aIn1tb4Qcf-Rg&usp=drive_copy)
+- [**Architecture of Accountability**](https://drive.google.com/file/d/1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy)
+  Brieffing Document: analytical mapping of institutional design choices that convert expert submissions into procedural acknowledgment without substantive consequence. Relevant to Legal Team, Public Interest Committee, Media Contact.
 
 ---
 
