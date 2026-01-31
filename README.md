@@ -83,7 +83,7 @@ The following documents constitute the canonical evidentiary and analytical reco
 - [**Bureaucratic Stagnation & Fiduciary Breach**](https://drive.google.com/file/d/1ZwfG3UWvqNjvRmi9VFtp2RMeZbXlWLxa)  
   Establishes that prolonged State non-engagement with Operations Research and decision-science inputs constitutes fiduciary, administrative, and constitutional breach once material risk intelligence was received.
   
-  See also:Seachain Comhtháthú: Governmentality Part III, Shéanadachais: Optimal Withdrawal
+  **See also:** *Seachain Comhtháthú* (Governmentality Part III, *Shéanadachais*: Optimal Withdrawal)
    [Anaesthetics in Irish Governmental Policy and Constitutional Safeguarding](https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI&usp=drive_copy)
 
 - **Séachanachas: Governance by Avoidance**  
