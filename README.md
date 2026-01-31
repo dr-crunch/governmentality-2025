@@ -48,7 +48,7 @@ Governmentality-2025/
 │   ├── 00_Foundational/
 │   │   ├── Bureaucratic_Stagnation_Fiduciary_Breach.pdf
 │   │   ├── Seachanachas_Governance_by_Avoidance.pdf
-│   │   └── Architecture_of_Accountability.pdf
+│   │   └── Government_Accountability_and Research_Initiative.pdf
 │   │
 │   ├── 01_Governance_Charters/
 │   │   ├── AI_OR_Governance_Charter_Consolidated.pdf
@@ -100,9 +100,8 @@ The following documents constitute the canonical evidentiary and analytical reco
 ### 01 — Governance Charters
 *Frameworks for lawful recovery and institutional repair.*
 
-- **AI / OR Governance Charter (Consolidated)**  
+- [**AI / OR Governance Charter (Consolidated)**](https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA&usp=drive_copy)
   Consolidated charter defining lawful governance obligations for receiving, processing, escalating, and deciding upon expert intelligence and civic submissions.  
-  [Access](https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA&usp=drive_copy)
 
 - **Charter on Strategic Intelligence & Risk**  
   Normative framework identifying “signal absorption without consequence” as an institutional failure mode, triggering enforceable duties upon notice of systemic risk.  
