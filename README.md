@@ -86,9 +86,11 @@ The following documents constitute the canonical evidentiary and analytical reco
   **See also:** *Seachain Comhtháthú* (Governmentality Part III, *Shéanadachais*: Optimal Withdrawal)
    [Anaesthetics in Irish Governmental Policy and Constitutional Safeguarding](https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI&usp=drive_copy)
 
-- **Séachanachas: Governance by Avoidance**  
-  Structural analysis of governance-by-delay (*Evasocracy*), documenting how jurisdictional deflection and procedural withdrawal substitute for lawful decision-making.  
-  [Access](https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy&usp=drive_copy)
+- [**Séachanachas: Governance by Avoidance**](https://drive.google.com/file/d/1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5)
+  Structural analysis of governance-by-delay (*Evasocracy*), documenting how jurisdictional deflection and procedural withdrawal substitute for lawful decision-making.
+
+  **See also:** Government Accountability and Research Initiative (Briefing Document, April 11, 2025)
+  [Synthesis of Information on Brøek Meinhardt's Initiative and Government Engagement](https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy)
 
 - **Architecture of Accountability**  
   Analytical mapping of institutional design choices that convert expert submissions into procedural acknowledgment without substantive consequence.  
