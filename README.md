@@ -34,7 +34,7 @@ This is why *Riarachánachas* (administrative-ism / administrative governance) p
 * Diagnostic value: It lets us analyze the Irish state's persistent ethical breach as **systemic**, not personal—rooted in how administration itself is rationalized.  
 * Accessibility bridge: plain-English titles ("Information Asymmetry Without Fiduciary Care," "Governance by Appearance & Administrative Containment") and the Irish equivalents. Precision supports the analysis; it's not used to colour the headline.
 
-For a continuation of this thread see, [Administrative Containment 2025](https://github.com/dr-wojak/administrative-containment-2025)  
+For a continuation of this thread see, [Administrative Containment 2025](https://github.com/dr-wojak/cabinet)  
 
 
 ## Repository Structure
