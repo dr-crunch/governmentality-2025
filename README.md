@@ -204,4 +204,8 @@ This repository is a **historical snapshot of 2025**. It is preserved as a fixed
 
 **https://github.com/dr-crunch/nullification-loops**
 
-🇫🇷 Synopsis en Français: gouvernementalité-2026 [link] 🇬🇷 Σύνοψη στα ελληνικά: kyvernitikotita-2026 [link] 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: kyvernitikotita-2026-CY [link] 🇮🇪 Achoimre as Gaeilge: rialtasacht-2026 [link] 🇱🇹 Santrauka lietuvių kalba: valdymasenas-2026 [link]
+🇫🇷 Synopsis en Français: [gouvernementalité-2026](https://github.com/dr-crunch/nullification-loops)  
+🇬🇷 Σύνοψη στα ελληνικά: [kyvernitikotita-2026](https://github.com/dr-crunch/nullification-loops)  
+🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [kyvernitikotita-2026-CY](https://github.com/dr-crunch/nullification-loops)  
+🇮🇪 Achoimre as Gaeilge: [rialtasacht-2026](https://github.com/dr-crunch/nullification-loops)  
+🇱🇹 Santrauka lietuvių kalba: [valdymasenas-2026](https://github.com/dr-crunch/nullification-loops)  
