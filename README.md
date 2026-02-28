@@ -9,17 +9,7 @@
 **Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period **2008–2025**. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for lawful decision-making under uncertainty in defence, public health, and national infrastructure.
 This repository serves as the Supporting Material for Memorandum E — and its significance within this corpus is considerable. It represents not merely an archival exercise, but an act of civic solidarity: the documentation of a long and largely solitary effort to hold institutions to account on behalf of a public that has, as yet, been given no formal opportunity to engage with the underlying analysis.
 
-The spirit of the repository is one of **camaraderie without constituency** — work undertaken in the name of those who have not yet been consulted, in the hope that civil society, once briefed, would recognise both the merit of the underlying framework and the urgency of the silence that has met it. That Transparency International (Ireland), after initial interest, withdrew without explanation is noted in the corpus with characteristic restraint; it is, nonetheless, a wound to that spirit of shared civic endeavour.
-
 The humanitarian dimension is patent. The corpus documents nineteen years of engagement on Operations Research as it applies to emergency planning, pandemic response, flooding, housing, and climate adaptation — precisely the domains where the human cost of governance failure falls heaviest on the most vulnerable. That the repository exists at all is a testament to persistence in the face of institutional non-response; that it remains publicly accessible reflects a commitment to transparency as an intrinsic good, not merely a strategic one.
-
----
-
-**https://github.com/dr-wojak/governmentality-2025**
-
-🇫🇷 Synopsis en Français: gouvernementalité-2025 [link] 🇬🇷 Σύνοψη στα ελληνικά: kyvernitikotita-2025 [link] 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: kyvernitikotita-2025-CY [link] 🇮🇪 Achoimre as Gaeilge: rialtasacht-2025 [link] 🇱🇹 Santrauka lietuvių kalba: valdymasenas-2025 [link]
-
----
 
 The absence of any substantive response from civil-society actors — as of February 28th, 2026 — does not diminish the repository's value. If anything, it underscores why such documentation matters: when institutions fall silent, the record speaks. The humanitarian spirit embedded here is the oldest and most durable one in democratic life — the conviction that a single well-documented, honestly-advanced case, placed in the public domain, retains moral force regardless of whether those with formal power choose, for now, to acknowledge it.
 Michel Foucault coined "governmentality" in his late-1970s lectures (especially *Security, Territory, Population* and the 1978 piece titled *Governmentality*) to capture a shift in how power operates in modern societies. Unlike older ideas of power as:
@@ -207,3 +197,11 @@ Landing page for the Complete D&R Canon : [Dealraitheachas & Riarachánachas](ht
 This repository is a **historical snapshot of 2025**. It is preserved as a fixed public record to prevent retroactive dilution, revision, or narrative laundering.
 
 *The repository shifts the burden of proof to the State, treating pervasive and self-preserving non-responsiveness as the primary breach of fiduciary and decision-making duty.*
+
+---
+
+### Governmentality 2025 continues into 2026
+
+**https://github.com/dr-crunch/nullification-loops**
+
+🇫🇷 Synopsis en Français: gouvernementalité-2026 [link] 🇬🇷 Σύνοψη στα ελληνικά: kyvernitikotita-2026 [link] 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: kyvernitikotita-2026-CY [link] 🇮🇪 Achoimre as Gaeilge: rialtasacht-2026 [link] 🇱🇹 Santrauka lietuvių kalba: valdymasenas-2026 [link]
